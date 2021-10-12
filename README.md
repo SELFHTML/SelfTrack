@@ -1,6 +1,6 @@
 Dieses Repository enthält bis auf weiteres keinen Code.
 
-Es dient dem Tracking der Wiki-Aktivitäten von Selfhtml
+Es ist ein Showcase für ein zu schaffendes Repo in [/SELFHTML](https://github.com/SELFHTML), das dem Tracking der Wiki-Aktivitäten von Selfhtml dienen könnte.
 
 Projekt 1: [SelfTrack](https://github.com/Rolf-B/SelfTrack/projects/1)
 
