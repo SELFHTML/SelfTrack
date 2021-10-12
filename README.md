@@ -4,4 +4,4 @@ Es ist ein Showcase für ein zu schaffendes Repo in [/SELFHTML](https://github.c
 
 Projekt 1: [SelfTrack](https://github.com/Rolf-B/SelfTrack/projects/1)
 
-Neue Themen können direkt als Issue erfasst werden oder als Diskussion angeregt werden.
+Neue Themen können direkt als [neues Issue](https://github.com/Rolf-B/SelfTrack/issues/new/choose) erfasst oder als [Diskussion](https://github.com/Rolf-B/SelfTrack/discussions) angeregt werden.
